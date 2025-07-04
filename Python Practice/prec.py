@@ -1,0 +1,1 @@
+min(20,10,40,33,100,10) #give the min values
